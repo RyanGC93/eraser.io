@@ -30,7 +30,7 @@ function Hero() {
           </p>
           <p className="text-3xl text-sky-300 font-extrabold">
             {" "}
-            (Click Login To Begin Creating Diagrams){" "}
+            Click Login/Register To Begin Creating Diagrams{" "}
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
