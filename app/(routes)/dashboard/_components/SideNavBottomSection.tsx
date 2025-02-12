@@ -91,6 +91,7 @@ function SideNavBottomSection({ onFileCreate, totalFiles }: any) {
       </Dialog>
 
       {/* Progress Bar  */}
+      <p> Click on or create a new file to begin </p>
       <div className="h-4 w-full bg-gray-200 rounded-full mt-5">
         <div
           className={`h-4  bg-blue-600 rounded-full`}
